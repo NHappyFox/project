@@ -8,6 +8,6 @@ class Main {
         square.print(4);
 
         triangle triangle = new triangle();
-        triangle.print(5,7);
+        triangle.print(5, 7);
     }
-    }
+}
